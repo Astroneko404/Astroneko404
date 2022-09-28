@@ -12,7 +12,7 @@
 
 ```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astroneko304" alt="astroneko304" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astroneko404" alt="astroneko404" /></a> </p>
 
 - 🔭 I’m currently working on **Python**, **TTS**, **DSP**
 - 🌱 Currently learning **Juce**, **Unreal Engine**
@@ -26,5 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astroneko404&show_icons=true&locale=en" alt="astroneko404" /></p>
 
 <p align="center">
-  <img src="https://astroneko304-om13-murwbnahy-astroneko304.vercel.app/now-playing" />
+  <img src="https://astroneko404-om13-murwbnahy-astroneko404.vercel.app/now-playing" />
 </p>

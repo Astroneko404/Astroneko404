@@ -31,5 +31,9 @@
 </p>
 
 <p align="center">
+<img src="https://user-images.githubusercontent.com/33112694/217525265-52564cf6-b331-4400-a73e-de616455a71e.jpg">
+</p>
+
+<p align="center">
   <img src="https://astroneko404-om13-murwbnahy-astroneko404.vercel.app/now-playing" />
 </p>

@@ -15,8 +15,6 @@
 ```
 -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astroneko404" alt="astroneko404" /></a> </p>
-
 - 🔭 I’m currently working on **Python**, **TTS**, **DSP**
 - 🌱 Currently learning **Juce**, **Unreal Engine**
 - 👨‍💻 All of my projects are available at [My Homepage](https://astroneko404.github.io/)
